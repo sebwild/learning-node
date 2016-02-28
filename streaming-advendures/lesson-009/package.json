@@ -1,0 +1,18 @@
+{
+  "name": "lesson-009",
+  "version": "1.0.0",
+  "description": "stream-adv tutorial 9",
+  "main": "program.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "Sebastian Wilde",
+  "license": "ISC",
+  "dependencies": {
+    "stream": "0.0.2",
+    "websocket-stream": "^3.0.1"
+  }
+}
